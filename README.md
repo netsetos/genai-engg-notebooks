@@ -1,6 +1,6 @@
 # Netsetos GenAI Engineering - Course Notebooks
 
-Hands-on notebooks for the Netsetos GenAI Engineering course. Each lesson has two notebooks:
+Hands-on notebooks for the Netsetos GenAI Engineering course. Each lesson has:
 
 - **`exercises-X_X.ipynb`** - runnable worked examples from the lesson.
 - **`practice-lab-X_X.ipynb`** - the hands-on lab (fill in the TODOs).
@@ -11,7 +11,11 @@ Hands-on notebooks for the Netsetos GenAI Engineering course. Each lesson has tw
 pip install -r requirements.txt
 ```
 
-Set any API keys as environment variables (e.g. `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `GOOGLE_API_KEY`) before running notebooks that call an LLM.
+Set API keys as environment variables (`ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `GOOGLE_API_KEY`) before running notebooks that call an LLM.
+
+## License
+
+(c) Netsetos. Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) - you may share and adapt these notebooks with attribution.
 
 ## Contents
 
